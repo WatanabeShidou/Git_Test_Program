@@ -9,7 +9,7 @@ int main()
 
     std::cout << "Hello New branch\n";
 
-    std::cout << "third branch\n";
+    std::cout << "third branch";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
